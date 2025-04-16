@@ -82,10 +82,19 @@ Contributions are welcome! If you'd like to enhance the system, fix bugs, or add
    ```
 5. Open a pull request detailing your changes.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per the license terms.
+---
 
 ## Acknowledgements
 
 Developed by [Abhisek Tiwari](https://github.com/Abhisek-Tiwari), with a focus on integrating machine learning techniques for personalized recommendations.
+
+---
+
+## 📬 Connect with Me
+
+- **GitHub:** [Abhisek-Tiwari](https://github.com/Abhisek-Tiwari)
+- **LinkedIn:** [abhisek-tiwari-a06315262](https://www.linkedin.com/in/abhisek-tiwari-a06315262/)
+
+---
+
+⭐️ If you like this project, don't forget to leave a star!
